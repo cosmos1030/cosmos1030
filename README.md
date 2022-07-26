@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<h2> Hi there 👋 </h2>
+<div align="center">
+    <h3>I'm Doyoon Kim, interested in math and machine learning<h3>
 
 <!--
 **cosmos1030/cosmos1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+
 <h2> Stack </h2>
 <img src="https://img.shields.io/badge/ python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/ javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
