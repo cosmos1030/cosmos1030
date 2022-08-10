@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ django-092E20?style=for-the-badge&logo=Django&logoColor=black">
 
 ![Doyoon's github stats](https://github-readme-stats.vercel.app/api?username=cosmos1030&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmos1030&layout=compact&theme=tokyonight)
